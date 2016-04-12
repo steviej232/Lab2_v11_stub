@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\0\\Cal Poly Senior Year\\CPE 463\\Lab2\\Lab2_v11_stub\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "C:\\0\\Cal Poly Senior Year\\CPE 463\\Lab2\\Lab2_v11_stub\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\0\\Cal Poly Senior Year\\CPE 463\\Lab2\\Lab2_v11_stub\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "C:\\0\\Cal Poly Senior Year\\CPE 463\\Lab2\\Lab2_v11_stub\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    }
+]
